@@ -18,6 +18,7 @@ import {
   mapAuthError,
   storage,
 } from "./utils";
+import { toAuthUser } from "./utils/helpers";
 
 // ========================================
 // INITIAL STATE
